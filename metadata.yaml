@@ -1,0 +1,33 @@
+_repo: Brothers-in-arms_71951
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Powell, E. Alexander (Edward Alexander)
+    aliases:
+    - Powell, Edward Alexander
+    - Powell, E. A. (Edward Alexander)
+    birthdate: 1879
+    deathdate: 1957
+    gutenberg_agent_id: '3963'
+    url: http://www.gutenberg.org/2009/agents/3963
+    wikipedia: https://en.wikipedia.org/wiki/E._Alexander_Powell
+description: ''
+gutenberg_issued: '2023-10-24'
+identifiers:
+  gutenberg: '71951'
+language: en
+pgterms:marc904: https://archive.org/details/brothersinarms00poweiala
+pgterms:marc905: 20221003104750powell
+pgterms:marc906: '1917'
+pgterms:marc907: us
+production_note: Peter Becker, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBoston :$bHoughton Mifflin company, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Brothers in arms
+url: http://www.gutenberg.org/ebooks/71951
